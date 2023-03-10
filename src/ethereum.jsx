@@ -108,6 +108,43 @@ const Ethereum = () => {
           >
             Switch to polygon
           </button>
+           <button
+            onClick={() => handleNetworkSwitch('polygon')}
+            className="mt-2 mb-2 btn btn-primary submit-button focus:ring focus:outline-none w-full"
+          >
+            Switch to polygon
+          </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          gdsdtttbtbtbv 
           <button
             onClick={() => handleNetworkSwitch('bsc')}
             className="mt-2 mb-2 bg-warning border-warning btn submit-button focus:ring focus:outline-none w-full"
